@@ -2,7 +2,7 @@
     display: flex;
     background-color: DodgerBlue;
     flex-direction: row;
-    flex-wrap: warp;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
   
