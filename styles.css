@@ -3,7 +3,7 @@
     background-color: DodgerBlue;
     flex-direction: row;
     flex-wrap: warp;
-    justify-content: flex-end;
+    justify-content: space-between;
   }
   
   .holder > div {
